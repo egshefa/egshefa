@@ -1,4 +1,5 @@
-```mermaid flowchart LR
+```mermaid
+flowchart LR
     markdown["`This **is** _Markdown_`"]
     newLines["`Line1
     Line 2
